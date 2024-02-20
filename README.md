@@ -1,2 +1,2 @@
 # Projekty
-Repozytorium składa się z dwóch folderów przedstawiające projekty komercyjne oraz hobbystyczne
+Repozytorium składa się z trzech folderów przedstawiających projekty komercyjne, akademickie oraz hobbystyczne 
