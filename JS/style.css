@@ -1,0 +1,61 @@
+body 
+{
+	background-color: #000000;
+	color: lightgray;
+	font-size:28px;
+	font-family: "Inconsolata", monospace; 
+}
+
+#pojemnik {
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#napis {
+	width:894px;
+	margin-top:50px;
+	margin-bottom:50px;
+	text-align:center;
+	font-size:48px;
+	min-height:60px;
+	border: 3px solid #222222
+}
+
+#slider {
+	float: left;
+	width:450px;
+	text-align:center;
+	min-height:280px;
+	
+}
+
+#przyciski {
+	float: left;
+	width:450px;
+	text-align:center;
+	min-height:280px;
+}
+
+.przycisk
+{
+	width: 250px;
+	height: 125px;
+	margin: 3px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 4px solid #51c8b2;
+	border-radius: 4px;
+	cursor: pointer; /* Uzycie flexboxa */
+	display: flex; /* Wysrodkowanie poziome */
+	justify-content: center; /* Wysrodkowanie pionowe */
+	align-items: center;
+	filter: brightness(70%);
+	transition: all .3s ease-in-out;
+}
+
+.przycisk:hover
+{
+	border: 4px solid #e9b64a;
+	filter: brightness(100%);
+}
