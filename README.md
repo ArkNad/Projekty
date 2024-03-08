@@ -1,5 +1,5 @@
 # Projekty
-Repozytorium składa się z trzech folderów 
+Repozytorium składa się z trzech folderów:
 
 -> Stacja automatycznego pomiaru cukierka Halls - projekt komercyjny zawierający program sterownika PLC firmy Allen Bradley napisany w oprogramowaniu Studio5000 w języku LAD i STL
 
